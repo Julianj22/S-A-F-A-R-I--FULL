@@ -1,5 +1,5 @@
 
-$("body").mouseenter(function() {
+$(".safari_game").mouseenter(function() {
     $("#saf").delay(2000).fadeIn(2000);
     $("#btm").delay(2000).fadeIn(2000);
 });    
